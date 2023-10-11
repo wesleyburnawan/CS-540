@@ -1,0 +1,4 @@
+List of references:
+1. https://www.futureofworknews.com/topics/futureofwork/articles/444789-ai-healthcare-whos-blame-when-things-go-wrong.htm#:~:text=If%20an%20algorithm%20is%20developed,liable%20for%20any%20mistakes%20made.
+2. https://medium.com/swlh/who-is-responsible-for-ai-d3b1b803eb55
+3. https://medium.com/innovation-machine/artificial-intelligence-3c6d80072416
